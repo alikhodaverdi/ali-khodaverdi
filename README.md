@@ -1,3 +1,7 @@
+![](https://komarev.com/ghpvc/?username=alikhodaverdi&color=green&style=for-the-badge&color=blueviolet)
+<br/>
+[![wakatime](https://wakatime.com/badge/user/ae9f36c0-eb3a-413e-80b8-f3e6f9725dbf.svg)](https://wakatime.com/@ae9f36c0-eb3a-413e-80b8-f3e6f9725dbf)
+
 
 <p>
 <div align="center">
