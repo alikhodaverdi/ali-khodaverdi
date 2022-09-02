@@ -1,5 +1,4 @@
 
-
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/-Node.js-aeff9c?style=for-the-badge&logo=node.js&logoColor=66fc44&labelColor=282828">
@@ -41,4 +40,8 @@
 </p>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alikhodaverdi&layout=compact&show_icons=true&theme=gruvbox&hide_border=true")](https://github.com/anuraghazra/github-readme-stats)  [![trophy](https://github-profile-trophy.vercel.app/?username=alikhodaverdi)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alikhodaverdi&layout=compact&show_icons=true&theme=gruvbox&hide_border=true")](https://github.com/anuraghazra/github-readme-stats)  
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=alikhodaverdi)](https://github.com/ryo-ma/github-profile-trophy)
