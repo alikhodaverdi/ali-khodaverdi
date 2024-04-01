@@ -4,12 +4,7 @@
 
 
 <p>
-<div align="center">
-  <img src="https://img.shields.io/badge/-Node.js-aeff9c?style=for-the-badge&logo=node.js&logoColor=66fc44&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Nestjs-cc0836?style=for-the-badge&logo=nestjs&logoColor=cc0836&labelColor=282828">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-</div>
+
 </p>
 <p>
 <div align="center">
