@@ -3,19 +3,9 @@
 [![wakatime](https://wakatime.com/badge/user/ae9f36c0-eb3a-413e-80b8-f3e6f9725dbf.svg)](https://wakatime.com/@ae9f36c0-eb3a-413e-80b8-f3e6f9725dbf)
 
 
-<p>
-
-</p>
-<p>
-<div align="center">
-  <img src="https://img.shields.io/badge/-typescript-0074C2?style=for-the-badge&logo=typescript&logoColor=0074C2&labelColor=282828">
-</div>
-</p>
-<p>
-<div align="center">
-  <img src="https://img.shields.io/badge/-Mongodb-aeff9c?style=for-the-badge&logo=mongodb&logoColor=66fc44&labelColor=282828">
-</div>
-</p>
+<h1>
+Science will eventually win
+</h1>
 
 
 ## My Statistics
